@@ -12,7 +12,7 @@ The goal of this project is to create a user-friendly dashboard that allows for 
 
 ## Dashboard Overview
 
-The dashboard, located in the `dashboard/app.py` file, provides a visual representation of the insurance policy data. It includes:
+The dashboard, located in the `dashboard.png` file, provides a visual representation of the insurance policy data. It includes:
 
 * Various charts and graphs displaying key metrics.
 * Summary statistics and insights derived from the data analysis.
