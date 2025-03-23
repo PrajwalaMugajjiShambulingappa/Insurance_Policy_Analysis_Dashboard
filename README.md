@@ -1,6 +1,6 @@
 # Insurance Policy Analysis Dashboard
 
-This repository contains the code and resources for an interactive dashboard designed to analyze insurance policy data. The dashboard provides visualizations and insights into key metrics, allowing users to understand policy trends, identify patterns, and make informed decisions.
+This repository contains the code and resources for a mini analytics dashboard that analyzes fictional insurance policy data. The dashboard provides visualizations and insights into key metrics, allowing users to understand policy trends, identify patterns, and make informed decisions.
 
 ## Project Description
 
